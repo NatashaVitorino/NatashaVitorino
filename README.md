@@ -1,5 +1,5 @@
 Me chamo Natasha! :D
-🌱 Atualmente curso Desenvolvimento de Sistemas, aprendo C#, HTML, CSS e em breve Java e SQL.
+🌱 Atualmente curso Desenvolvimento de Sistemas, estou aprendendo C#, HTML, CSS e em breve Javascript e SQL.
 
 <!---
 NatashaVitorino/NatashaVitorino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
